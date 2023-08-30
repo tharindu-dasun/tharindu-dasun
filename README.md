@@ -31,6 +31,12 @@
 welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 2 years and worked with many languages and technologies. 
 </p>
 
+<div align="center">
+ <h2 align="center"> </h2>
+<!--  <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment="> -->
+ <img src="https://count.getloli.com/get/@Art1ord?theme=moebooru">
+</div>
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
@@ -131,6 +137,7 @@ welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering stud
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
+    
   </tr>
  <tr>
  </tr>
@@ -147,9 +154,4 @@ welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering stud
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindu-dasun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tharindu's GitHub Stats" />
 </a>
 
-<div align="center">
- <h2 align="center">  </h2>
- <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
- <img src="https://count.getloli.com/get/@Art1ord?theme=moebooru">
 
-</div>
