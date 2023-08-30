@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="[https://www.youtube.com/@rzashakeri](https://youtube.com/@tharindudasun6198?si=rIti_Vx_KcB5BwLB)">
+<a href="https://youtube.com/@tharindudasun6198?si=rIti_Vx_KcB5BwLB">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,8 +17,12 @@
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/rzashakeri/">
+<a href="">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="">
+<img src="https://img.shields.io/badge/facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 </div>
@@ -131,3 +135,21 @@ welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering stud
  <tr>
  </tr>
 </table>
+
+## &#x1f4c8; GitHub Status
+
+<a href="https://github.com/tharindu-dasun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-dasun&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/tharindu-dasun/tharindu-dasun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindu-dasun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tharindu's GitHub Stats" />
+</a>
+
+<div align="center">
+ <h2 align="center">  </h2>
+ <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
+ <img src="https://count.getloli.com/get/@Art1ord?theme=moebooru">
+
+</div>
