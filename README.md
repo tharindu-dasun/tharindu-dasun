@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/facebook-2CA5E0?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
+
 </div>
 <p></p>
 <p align="justify">
@@ -138,7 +139,26 @@ welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering stud
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
     </td>
-    
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
   </tr>
  <tr>
  </tr>
