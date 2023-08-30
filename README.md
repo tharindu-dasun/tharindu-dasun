@@ -157,7 +157,7 @@ welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering stud
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+      <br>Kubernetes
     </td>
   </tr>
  <tr>
