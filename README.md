@@ -176,4 +176,4 @@ welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering stud
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindu-dasun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tharindu's GitHub Stats" />
 </a>
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharindu-dasun&bg_color=1a1b27&color=ffffff&line=38bdae&point=70a5fd&area=true)
+
