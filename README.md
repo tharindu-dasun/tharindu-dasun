@@ -172,10 +172,7 @@ welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering stud
 <img alt="" src="https://streak-stats.demolab.com?user=tharindu-dasun&amp;theme=gruvbox&amp;border_radius=1" style="height:197px; width:400px" />
 </p>
 
----
-<p>
-<a href="https://miusoft.itch.io/"><img  alt="" src="https://raw.githubusercontent.com/TheMIU/TheMiu/main/visitSiteBanner-01.png" style="height:200px; width:800px" /> </a>
-</p>
+
 
 
 
