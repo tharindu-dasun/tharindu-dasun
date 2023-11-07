@@ -164,16 +164,19 @@ welcome to my GitHub Page. I am Tharindu Dasun and now Software engineering stud
  </tr>
 </table>
 
-## &#x1f4c8; GitHub Status
+### 📈 Stats
 
-<a href="https://github.com/tharindu-dasun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu-dasun&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindu-dasun&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+<p><img alt="" src="https://github-readme-stats.vercel.app/api?username=tharindu-dasun&amp;show_icons=true&amp;theme=gruvbox" style="height:195px; width:400px" />
+&nbsp; &nbsp;
+<img alt="" src="https://streak-stats.demolab.com?user=tharindu-dasun&amp;theme=gruvbox&amp;border_radius=1" style="height:197px; width:400px" />
+</p>
 
-</a>
-<br/>
-<br/>
-<a href="https://github.com/tharindu-dasun/tharindu-dasun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindu-dasun&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tharindu's GitHub Stats" />
-</a>
+---
+<p>
+<a href="https://miusoft.itch.io/"><img  alt="" src="https://raw.githubusercontent.com/TheMIU/TheMiu/main/visitSiteBanner-01.png" style="height:200px; width:800px" /> </a>
+</p>
+
+
 
 
