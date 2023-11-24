@@ -1,4 +1,4 @@
-### Hi, I'm Tharindu '''<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> '''
+### Hello, I'm Tharindu Dasun '''<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> '''
 <br>
 <div align="justify">
 
